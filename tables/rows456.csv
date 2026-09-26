@@ -1,0 +1,4 @@
+row,if_filled_for_real,what_that_is,what_follows
+4 every class in Hdg^2(V(F)) is algebraic,surfaces Z_i and rationals a_i with cl(sum a_i[Z_i])=gamma for every gamma in Hdg^2(V(F)),Hodge on this host,Delta_miss(V(F))=empty; row 5 false; Term A still unproved
+5 Delta_miss(V(F)) nonempty,one named gamma in Hdg^2(V(F)) and proof gamma not in im(cl),Term B Hodge is false,Clay disproof; row 4 false; row 6 false
+6 forall X^4 Hdg^2 subset im(cl),instance (D) (h : D.codim = 2) : CycleSection D for every fourfold,Term A Hodge is a theorem,row 5 empty forever; prize for a proof not a miss

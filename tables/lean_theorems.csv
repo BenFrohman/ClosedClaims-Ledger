@@ -1,0 +1,13 @@
+theorem,statement
+detA_eq_aut,5*6-1*0=30=|Aut|
+muW_from_weights,(6-1)^2=25
+muWT_from_weights,4*13/2=26
+mu_W_length / mu_WT_length,staircases length 25 and 26
+muF_cube,25^3=15625
+autF_cube,30^3=27000
+hilbert_sum,1+426+1751+426+1=2605
+h22_full,1751+1=1752
+b4_full,2605+1=2606
+full_middle_row,1+426+1752+426+1=2606
+box31_ne_muWT / box35_ne_muWT,31!=26 and 35!=26
+aut_ne_muW,30!=25
